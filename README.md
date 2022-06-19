@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,  I'm Cagdas, a Developer 🚀 from Istanbul, Turkiye</h1>
+<h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,  I'm Cagdas,  a Developer 🚀 from Istanbul</h1>
 <img align="right" height="100px" src="https://github.com/cagdasaydemir/cagdasAydemir/blob/main/cagdas-lin-qr.jpg" alt="cagdasaydemir linkedinQR">
 <br/>
 
