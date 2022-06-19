@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 - 📫 Reach me:  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/cagdasaydemir/)
 - ⚡️ Fun fact: I'm a huge fan of CyberPunk, AR/VR, Simulations, MetaVerse, CyrptoCurrencies, Nfts, DataVisualization
 <br/>
-
+<!--
 <img align="right" height="" src="https://github.com/cagdasaydemir/cagdasAydemir/blob/main/matrix.gif" alt="matrixgif">
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasaydemir&layout=compact&theme=dark&hide_border=true)
 
