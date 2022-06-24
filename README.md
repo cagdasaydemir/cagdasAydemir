@@ -40,6 +40,7 @@ Here are some ideas to get you started:
   
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/cagdasaydemir/cagdasaydemir/blob/main/slide.svg" />
 
+
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cagdasaydemir/count.svg)
 
 ![](https://komarev.com/ghpvc/?username=cagdasaydemir&style=flat-square&label=Views)
