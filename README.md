@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">,  I'm Cagdas,  a Developer 🚀 from Istanbul</h1>
+<h1> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">  I'm Cagdas,  a Developer from Istanbul</h1>
+
+![](https://komarev.com/ghpvc/?username=cagdasaydemir&style=flat-square&label=Views)
+
+![](https://badges.pufler.dev/visits/cagdasaydemir/cagdasaydemir?color=black&logo=github&style=flat-square)
 
 <img align="right" height="100px" src="https://github.com/cagdasaydemir/cagdasAydemir/blob/main/cagdas-lin-qr.jpg" alt="cagdasaydemir linkedinQR">
 
@@ -45,9 +49,6 @@ Here are some ideas to get you started:
 
 👉🏻 ![Visitor Count](https://profile-counter.glitch.me/cagdasaydemir/count.svg)
 
-![](https://komarev.com/ghpvc/?username=cagdasaydemir&style=flat-square&label=Views)
-
-![](https://badges.pufler.dev/visits/cagdasaydemir/cagdasaydemir?color=black&logo=github&style=flat-square)
 
   
   </div>
