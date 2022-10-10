@@ -44,13 +44,11 @@
 </p>
 <br/>
 
-<h2> 📊  Reach me on </h2>
+<h2> 📩  Reach me on </h2>
 
 <a href="https://www.linkedin.com/in/cagdasaydemir/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ac.cagdasaydemir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="emailTo_cagdas" /></a>
 <a href="https://stackoverflow.com/users/19403181/cjsv0" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
-<a href="https://twitter.com/cagdasvik" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="https://www.instagram.com/cagdasvik/" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 
 <div align="center">
 
