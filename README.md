@@ -7,7 +7,7 @@
 <div > 
 
 <div align="center" > 
-<img alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<img alt="header" src="https://github.com/cagdasaydemir/cagdasaydemir/blob/main/img/cagdas_An_artistic_image_of_a_person_standing_in_front_of_a_wal_96b0e9de-60f3-4d02-8557-ce8d6490d713.png" />
 </div>
 <img align="right" height="100px" src="https://github.com/cagdasaydemir/cagdasAydemir/blob/main/cagdas-lin-qr.jpg" alt="cagdasaydemir linkedinQR">
 </div>
