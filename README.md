@@ -1,18 +1,30 @@
-<h1 align="center">Hi 👋, I'm Cagdas</h1>
-<h3 align="center">Software Engineer</h3>
+## Hey 👋, I'm Cagdas Aydemir!
+I am a versatilist and easily adapt to different hats Full Stack Web Developer 🌐 depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
 
 <p><a target="_blank" href="https://www.cagdasaydemir.com">➡️ Check out my website</a></p>
-
-<div> 
 <div align="center" > 
 <img alt="header" src="https://github.com/cagdasaydemir/cagdasaydemir/blob/main/img/cagdas_An_artistic_image_of_a_person_standing_in_front_of_a_wal_96b0e9de-60f3-4d02-8557-ce8d6490d713.png" />
 </div>
-<img align="right" height="100px" src="https://github.com/cagdasaydemir/cagdasAydemir/blob/main/cagdas-lin-qr.jpg" alt="cagdasaydemir linkedinQR">
-</div>
+<br>
+<br/>
+  
+```javascript
+// tools_I_use organized
 
-<hr class="dotted">
+const CAGDAS = {
+  code: ["HTML", "CSS", "Javascript", "Typescript", "NodeJs", "C#" ],
+  tools: ["BoostTrap", "React", "Redux", "Jest", ".Net Core"],
+  database: ["Postgresql", "MSSQL"],
+  cloud: ["Azure", "FireBase", "Netlify"],
+  architecture: ["Client-Server", "Model-View-Controller", "Layered"],
 
-### 🛠 Tech Stack
+};
+```
+<br/>
+
+### 🔨 Languages and Tools:
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=239120)&nbsp;
 ![BootsTrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
@@ -25,30 +37,21 @@
 ![MsSQL](https://img.shields.io/badge/-MSSQL-05122A?style=for-the-badge&logo=microsoftsqlserver)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 
+<br/>
 
+### 📊 Github Stats
 
-<hr class="dotted">
-
-### 📊 Analytics
-<p align="center">
 <a href="https://github.com/cagdasaydemir">
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=cagdasaydemir&show_icons=true&locale=en&&theme=tokyonight&include_all_commits=true&count_private=true" alt="cagdasaydemir"/>
-  <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagdasaydemir&show_icons=true&locale=en&layout=compact&langs_count=7&theme=tokyonight" alt="cagdasaydemir"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=cagdasaydemir&show_icons=true&locale=en&&theme=shadow_blue&include_all_commits=true&count_private=true" alt="cagdasaydemir"/>
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cagdasaydemir&show_icons=true&locale=en&layout=compact&langs_count=7&theme=shadow_blue" alt="cagdasaydemir"/>
 </a>
-</p>
 
-<hr class="dotted">
+<br/>
+<br/>
 
-### 🤝🏻 Social
-<a href="https://www.linkedin.com/in/cagdasaydemir/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://stackoverflow.com/users/19403181/cjsv0" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+### 📫 Reach me on
 
-<hr class="dotted">
+  <a href="https://www.linkedin.com/in/cagdasaydemir/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://stackoverflow.com/users/19403181/cjsv0" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a> <a href="mailto:ac.cagdasaydemir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="emailTo_cagdas" /></a>
 
-### 📩 Contact Me ! 
-
-<a href="mailto:ac.cagdasaydemir@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="emailTo_cagdas" /></a>
-
-<hr class="dotted">
 
 ![](https://komarev.com/ghpvc/?username=cagdasaydemir&style=for-the-badge)
