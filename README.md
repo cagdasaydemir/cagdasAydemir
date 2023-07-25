@@ -18,7 +18,6 @@ const CAGDAS = {
   database: ["Postgresql", "MSSQL"],
   cloud: ["Azure", "FireBase", "Netlify"],
   architecture: ["Client-Server", "Model-View-Controller", "Layered"],
-
 };
 ```
 <br/>
