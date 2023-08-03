@@ -14,7 +14,7 @@ I am a versatilist and easily adapt to different hats Full Stack Web Developer ð
 
 const CAGDAS = {
   code: ["HTML", "CSS", "Javascript", "Typescript", "NodeJs", "C#" ],
-  tools: ["BoostTrap", "React", "Redux", "Jest", ".Net Core"],
+  tools: ["BootsTrap", "React", "Redux", "Jest", ".Net Core"],
   database: ["Postgresql", "MSSQL"],
   cloud: ["Azure", "FireBase", "Netlify"],
   architecture: ["Client-Server", "Model-View-Controller", "Layered"],
